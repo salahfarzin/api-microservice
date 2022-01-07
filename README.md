@@ -1,2 +1,3 @@
-# api-microservice
-Clean Architecture API Microservice
+# Simple API for a microservice
+
+Based on Gin framework
